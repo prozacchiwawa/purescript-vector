@@ -25,20 +25,17 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-prelude": "^3.1.0",
-    "purescript-either": "^3.1.0",
-    "purescript-arrays": "^4.2.0",
-    "purescript-foldable-traversable": "^3.6.1",
+    "purescript-prelude": "^4.1.1",
+    "purescript-either": "^4.1.1",
+    "purescript-arrays": "^5.3.1",
+    "purescript-foldable-traversable": "^4.1.1",
     "purescript-math": "^2.1.0",
-    "purescript-extensions": "^2.2.0",
-    "purescript-proxy": "^2.1.0"
+    "purescript-extensions": "https://github.com/prozacchiwawa/purescript-extensions.git#purescript-0.13",
+    "purescript-proxy": "^3.0.0"
   },
   "devDependencies": {
-    "purescript-assert": "^3.0.0",
-    "purescript-console": "^3.0.0",
-    "purescript-random": "^3.0.0"
-  },
-  "resolutions": {
-    "purescript-extensions": "^2.2.0"
+    "purescript-assert": "^4.1.0",
+    "purescript-console": "^4.1.1",
+    "purescript-random": "^4.0.0"
   }
 }
